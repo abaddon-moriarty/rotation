@@ -1,0 +1,102 @@
+.prota {
+	width: 100px;
+	padding:0px 0px 0px 0px;
+	margin:0px;
+	font-size: 150%;
+}
+
+
+h1 {
+	font-family: times, serif;
+	font-size:30pt;
+	font-style:italic;
+	text-align: center;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+.rott {
+  transform: rotate(45deg);
+}
+
+
+
+
+div#q1 {
+
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	color: green;
+}
+
+section {
+
+	width: 330px;
+}
+
+
+header {
+	padding: 20px 30px 10px 40px;
+	background-color: brown;
+}
+
+body {
+	background-color: lightgray;
+	width:100%;
+	padding:0;
+	margin:0px;
+}
+
+
+article {
+	background-color: lightgray;
+
+}
+
+/*article.left{float:left; margin-right:20px; clear:left;}
+article.right{float:right; margin-left:20px; clear:right;}*/
+
+header h1{
+	color:black;
+}
+
+#progress{
+	align-items: center;
+	display:flex;
+	flex-direction: column;
+}
+
+progress{
+
+	width: 40%;
+}
+
+
+
+a:link {
+	text-decoration: none;
+
+}
+
+
+/*footer
+{
+    position:fixed;
+    background-color: lightgray;
+    bottom:0;
+    text-align: center;
+    padding: 20px 30px 10px 40px;
+}
+
+*/
+
+
+/*
+___________EXO_________________rotation_________________________________________________________________
+*/
